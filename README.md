@@ -192,4 +192,4 @@ If you find this work useful, please cite:
 
 ## License
 
-This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+This is the techguy's private copy sold them for the use and may give back what they learn or improve if the wish to 
